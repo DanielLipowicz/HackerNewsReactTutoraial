@@ -2,14 +2,14 @@ import React, {Component} from 'react';
 import './App.css';
 import axios from 'axios';
 
-const DEFAULT_QUERY = 'redux';
-const DEFAULT_HPP = '100';
+export const DEFAULT_QUERY = 'redux';
+export const DEFAULT_HPP = '100';
+export const PATH_BASE = 'http://hn.algolia.com/api/v1';
+export const PATH_SEARCH = '/search';
+export const PARAM_SEARCH = 'query=';
+export const PARAM_PAGE = 'page=';
+export const PARAM_HPP = "hitsPerPage=";
 
-const PATH_BASE = 'http://hn.algolia.com/api/v1';
-const PATH_SEARCH = '/search';
-const PARAM_SEARCH = 'query=';
-const PARAM_PAGE = 'page=';
-const PARAM_HPP = "hitsPerPage=";
 const url = `${PATH_BASE}${PATH_SEARCH}?${PARAM_SEARCH}${DEFAULT_QUERY}&${PARAM_PAGE}`;
 
 const list = [
@@ -150,7 +150,7 @@ class App extends Component {
 
 
         console.log(this.state);
-        if (error){
+        if (error) {
             return <p>Ough snap something went wrong.
                 Call consultant or try again later
             </p>;
@@ -258,5 +258,18 @@ const Table = ({list, onDismiss}) =>
             );
         })}
     </div>;
+const Form = ({isChecked, onChange}) =>
+    <div>
+        <form>
+            <input
+                type="checkbox"
+                checked = {isChecked}
+                onChange={onChange}
+            />
+        </form>
+        {isChecked ? <div>Boom</div> : ''}
+    </div>
 
 export default App;
+export {Search, Button, Table, Form};
+
