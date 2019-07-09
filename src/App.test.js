@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import renderer from 'react-test-renderer';
+import Enzyme, {shallow} from "enzyme";
+import Adapter from 'enzyme-adapter-react-16';
 import App,{ Search, Button, Table, Form} from './App';
+
+Enzyme.configure({adapter:new Adapter});
 
 describe('App', () => {
     it('renders without crashing', () => {
@@ -30,15 +34,22 @@ describe('Search', () => {
         expect(tree).toMatchSnapshot();
     })
 });
+
 describe('Button', () => {
     it('renders without crashing', () => {
         const div = document.createElement('div');
-        ReactDOM.render(<Button>Give Me More</Button>, div);
+        ReactDOM.render(<Button onClick={()=>{}}>Give Me More</Button>, div);
         ReactDOM.unmountComponentAtNode(div);
+    });
+    it('button should be single element', ()=>{
+        const element = shallow(
+            <Button onClick={()=>{}}>Child</Button>
+        );
+        expect(element.find('button').length).toBe(1);
     });
     test('has a valid snapshot', () => {
         const component = renderer.create(
-            <Button>Give Me More</Button>
+            <Button onClick={()=>{}}>Give Me More</Button>
         );
         let tree = component.toJSON();
         expect(tree).toMatchSnapshot();
@@ -53,38 +64,30 @@ describe('Table', () => {
     };
     it('renders without crashing', () => {
         const div = document.createElement('div');
-        ReactDOM.render(<Table {...props} />, div);
+        ReactDOM.render(<Table onDismiss={()=>{}} sortKey={'AUTHOR'} {...props} />, div);
+    });
+    it('shows to items in list', ()=> {
+        const element =shallow(
+            <Table onDismiss={()=>{}} sortKey={'AUTHOR'} {...props}/>
+        );
+        expect(element.find('.table-row').length).toBe(2);
     });
     test('has a valid snapshot', () => {
         const component = renderer.create(
-            <Table {...props} />
+            <Table onDismiss={()=>{}}  {...props} />
         );
         let tree = component.toJSON();
         expect(tree).toMatchSnapshot();
     });
-});
-describe('form', () => {
-
-    it('renders without crashing', () => {
-        const div = document.createElement('div');
-        ReactDOM.render(<Form isChecked={true} />, div);
-    });
-    test('has a valid snapshot', () => {
-        const component = renderer.create(
-            <Form isChecked={true} />
-        );
-        let tree = component.toJSON();
-        expect(tree).toMatchSnapshot();
-    });
-    it('renders without crashing', () => {
-        const div = document.createElement('div');
-        ReactDOM.render(<Form isChecked={false} />, div);
-    });
-    test('has a valid snapshot', () => {
-        const component = renderer.create(
-            <Form isChecked={false} />
-        );
-        let tree = component.toJSON();
-        expect(tree).toMatchSnapshot();
-    });
+    test('has proper class when column is sorted', ()=>{
+   // TODO: figure out how to create this test.
+    // The point is ensure that sort key is passed to Sort component
+    //     const component =shallow(
+    //         <Table onDismiss={()=>{}} sortKey={'AUTHOR'} {...props}/>
+    //     );
+    //     // const componentInstance = component.instance();
+    //     component.setState({sortKey:'AUTHOR'});
+    //     component.update();
+    //     expect(component.find("button.button-inline.button-active").length).toEqual(1)
+    })
 });
