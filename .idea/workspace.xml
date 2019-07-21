@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/App/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/CancelButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/SaveButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/SubmitButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="Coding part completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="277" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,31 +23,16 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>searched</find>
-      <find>from</find>
-      <find>form</find>
-      <find>list</find>
-      <find>hits</find>
-      <find>update</find>
-      <find>PATH_BASE</find>
-      <find>DEFAULT_QUERY</find>
-      <find>url</find>
-      <find>..</find>
-      <find>fetchSearchTopStories</find>
-      <find>searchTerm</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1NQHweOmWznFyzRHnvrAYQrOW6u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Table" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/constants" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/constants" />
       <recent name="$PROJECT_DIR$/src/components/Table" />
       <recent name="$PROJECT_DIR$/src/components/Search" />
       <recent name="$PROJECT_DIR$/src/components" />
@@ -96,7 +66,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.form">
+  <component name="RunManager" selected="Node.js.Faktura_nr_F_2019_9923798556.js">
+    <configuration name="App" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="App" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="App.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -107,66 +90,43 @@
       <test-file value="$PROJECT_DIR$/src/App.test.js" />
       <method v="2" />
     </configuration>
-    <configuration name="Search" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateSearchTopStoriesState" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-file value="$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.test.js" />
       <test-names>
-        <test-name value="Search" />
+        <test-name value="UpdateSearchTopStoriesState" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Table" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/App.test.js" />
-      <test-names>
-        <test-name value="Table" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="form" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/App.test.js" />
-      <test-names>
-        <test-name value="form" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="form.renders without crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateSearchTopStoriesState.should return new state" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-file value="$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.test.js" />
       <test-names>
-        <test-name value="form" />
-        <test-name value="renders without crashing" />
+        <test-name value="UpdateSearchTopStoriesState" />
+        <test-name value="should return new state" />
       </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Faktura_nr_F_2019_9923798556.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Faktura_nr_F_2019_9923798556.js" working-dir="$USER_HOME$/Downloads">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.form" />
+        <item itemvalue="Node.js.Faktura_nr_F_2019_9923798556.js" />
+        <item itemvalue="Jest.UpdateSearchTopStoriesState" />
+        <item itemvalue="Jest.UpdateSearchTopStoriesState.should return new state" />
+        <item itemvalue="Jest.App" />
         <item itemvalue="Jest.App.test.js" />
-        <item itemvalue="Jest.form.renders without crashing" />
-        <item itemvalue="Jest.Search" />
-        <item itemvalue="Jest.Table" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +164,24 @@
       <workItem from="1560595436883" duration="823000" />
       <workItem from="1560685507853" duration="11000" />
       <workItem from="1560685543988" duration="191000" />
+      <workItem from="1562006643028" duration="6769000" />
+      <workItem from="1562265407136" duration="24712000" />
     </task>
+    <task id="LOCAL-00001" summary="Unit test chapter completed">
+      <created>1560851058942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560851058942</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Coding part completed">
+      <created>1562702681682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562702681682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -223,6 +202,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter completed." />
+    <MESSAGE value="Unit test chapter completed" />
+    <MESSAGE value="Coding part completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding part completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.js</url>
+          <line>13</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$USER_HOME$/Downloads/Faktura_nr_F_2019_9923798556.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavaScriptTestRunnerJest">
+        <watch expression="hits[&quot;0&quot;]" />
+        <watch expression="hits[&quot;0&quot;]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerNewsReactTutoraial$Table_has_proper_class_when_column_is_sorted.info" NAME="Table.has proper class when column is sorted Coverage Results" MODIFIED="1562270781870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HackerNewsReactTutoraial$App_test_js.info" NAME="App.test.js Coverage Results" MODIFIED="1562611555314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
