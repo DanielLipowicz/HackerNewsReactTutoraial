@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="Coding part completed">
+    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="Perform code re-organisation - for now all components are split to different folders">
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/__snapshots__/App.test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Buttons/__snapshots__/test.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Table/__snapshots__/test.js.snap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Table/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/constants" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tmp/build/reports/gradle/MHListener_FailedTestScreenshots" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,12 +61,15 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/App" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/constants" />
-      <recent name="$PROJECT_DIR$/src/components/Table" />
-      <recent name="$PROJECT_DIR$/src/components/Search" />
-      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/tmp/build/reports/gradle/MHListener_FailedTestScreenshots" />
+      <recent name="$PROJECT_DIR$/src/tmp/build/reports/gradle" />
+      <recent name="$PROJECT_DIR$/src/tmp" />
       <recent name="$PROJECT_DIR$/tmp" />
+      <recent name="$PROJECT_DIR$/src/constants" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Faktura_nr_F_2019_9923798556.js">
+  <component name="RunManager" selected="Jest.App.renders without crashing">
     <configuration name="App" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -80,14 +98,18 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="App.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="App.renders without crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST_FILE" />
+      <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="App" />
+        <test-name value="renders without crashing" />
+      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="UpdateSearchTopStoriesState" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -122,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.App.renders without crashing" />
         <item itemvalue="Node.js.Faktura_nr_F_2019_9923798556.js" />
         <item itemvalue="Jest.UpdateSearchTopStoriesState" />
         <item itemvalue="Jest.UpdateSearchTopStoriesState.should return new state" />
         <item itemvalue="Jest.App" />
-        <item itemvalue="Jest.App.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +187,10 @@
       <workItem from="1560685507853" duration="11000" />
       <workItem from="1560685543988" duration="191000" />
       <workItem from="1562006643028" duration="6769000" />
-      <workItem from="1562265407136" duration="24712000" />
+      <workItem from="1562265407136" duration="25938000" />
+      <workItem from="1563818491211" duration="5000" />
+      <workItem from="1563823917207" duration="1000" />
+      <workItem from="1563824624117" duration="16371000" />
     </task>
     <task id="LOCAL-00001" summary="Unit test chapter completed">
       <created>1560851058942</created>
@@ -181,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562702681682</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor error fix">
+      <created>1563741719221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563741719221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +236,9 @@
     <MESSAGE value="Chapter completed." />
     <MESSAGE value="Unit test chapter completed" />
     <MESSAGE value="Coding part completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding part completed" />
+    <MESSAGE value="Minor error fix" />
+    <MESSAGE value="Perform code re-organisation - for now all components are split to different folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Perform code re-organisation - for now all components are split to different folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,19 +246,16 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.js</url>
           <line>13</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/constants/updateSearchTopStoriesState.js</url>
           <line>16</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$USER_HOME$/Downloads/Faktura_nr_F_2019_9923798556.js</url>
           <line>22</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
