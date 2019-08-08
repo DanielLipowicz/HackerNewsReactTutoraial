@@ -1,0 +1,28 @@
+{
+  "id" : "1f08c451-0a56-3dcd-9470-18318c2cab2b",
+  "request" : {
+    "url" : "/favicon.ico",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "body-favicon.ico-N4pxP.txt",
+    "headers" : {
+      "Date" : "Thu, 08 Aug 2019 12:57:25 GMT",
+      "Content-Type" : "text/html; charset=UTF-8",
+      "Connection" : "keep-alive",
+      "Set-Cookie" : "__cfduid=dd0ee5b1288fb65043293c2021ff7720d1565269045; expires=Fri, 07-Aug-20 12:57:25 GMT; path=/; domain=.algolia.com; HttpOnly; Secure",
+      "X-Request-Id" : "2a2d05a8-db6b-4811-bc80-e2c2c84818d3",
+      "X-Runtime" : "0.002249",
+      "CF-Cache-Status" : "MISS",
+      "Expires" : "Thu, 08 Aug 2019 14:57:25 GMT",
+      "Cache-Control" : "public, max-age=7200",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubDomains; preload",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Vary" : "Accept-Encoding",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5031a7ed9f79cc73-WAW"
+    }
+  },
+  "uuid" : "1f08c451-0a56-3dcd-9470-18318c2cab2b"
+}

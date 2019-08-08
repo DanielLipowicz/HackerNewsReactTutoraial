@@ -1,0 +1,4515 @@
+{
+  "hits": [
+    {
+      "created_at": "2017-05-05T14:14:17.000Z",
+      "title": "Build Yourself a Redux blabla this is mock",
+      "url": "https://zapier.com/engineering/how-to-build-redux/",
+      "author": "jdeal",
+      "points": 395,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 155,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1493993657,
+      "relevancy_score": 7406,
+      "_tags": [
+        "story",
+        "author_jdeal",
+        "story_14273549"
+      ],
+      "objectID": "14273549",
+      "_highlightResult": {
+        "title": {
+          "value": "Build Yourself a \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://zapier.com/engineering/how-to-build-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "jdeal",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-20T11:43:46.000Z",
+      "title": "Things to learn in React before using Redux",
+      "url": "https://www.robinwieruch.de/learn-react-before-using-redux/",
+      "author": "callumlocke",
+      "points": 370,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 104,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1500551026,
+      "relevancy_score": 7554,
+      "_tags": [
+        "story",
+        "author_callumlocke",
+        "story_14811577"
+      ],
+      "objectID": "14811577",
+      "_highlightResult": {
+        "title": {
+          "value": "Things to learn in React before using \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://www.robinwieruch.de/learn-react-before-using-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "callumlocke",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-05-25T14:04:07.000Z",
+      "title": "Show HN: ORY Editor – A rich editor for the browser, built with React and Redux",
+      "url": "https://github.com/ory/editor?branch=master",
+      "author": "jswizzard",
+      "points": 369,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 98,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1495721047,
+      "relevancy_score": 7447,
+      "_tags": [
+        "story",
+        "author_jswizzard",
+        "story_14417340",
+        "show_hn"
+      ],
+      "objectID": "14417340",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: ORY Editor – A rich editor for the browser, built with React and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/ory/editor?branch=master",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jswizzard",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-06-12T21:06:59.000Z",
+      "title": "A SoundCloud client in React and Redux",
+      "url": "http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/",
+      "author": "rwieruch",
+      "points": 253,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 69,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1465765619,
+      "relevancy_score": 6774,
+      "_tags": [
+        "story",
+        "author_rwieruch",
+        "story_11890229"
+      ],
+      "objectID": "11890229",
+      "_highlightResult": {
+        "title": {
+          "value": "A SoundCloud client in React and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.robinwieruch.de/the-soundcloud-client-in-react-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "rwieruch",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-11-21T01:33:31.000Z",
+      "title": "Systemd redux: The end of Linux",
+      "url": "http://blog.lusis.org/blog/2014/11/20/systemd-redux/",
+      "author": "bcantrill",
+      "points": 235,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 446,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1416533611,
+      "relevancy_score": 5685,
+      "_tags": [
+        "story",
+        "author_bcantrill",
+        "story_8639317"
+      ],
+      "objectID": "8639317",
+      "_highlightResult": {
+        "title": {
+          "value": "Systemd \u003cem\u003eredux\u003c/em\u003e: The end of Linux",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://blog.lusis.org/blog/2014/11/20/systemd-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "bcantrill",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-04-25T01:10:56.000Z",
+      "title": "Redux – Not Dead Yet",
+      "url": "http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/",
+      "author": "fagnerbrack",
+      "points": 228,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 192,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1524618656,
+      "relevancy_score": 8091,
+      "_tags": [
+        "story",
+        "author_fagnerbrack",
+        "story_16918003"
+      ],
+      "objectID": "16918003",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e – Not Dead Yet",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://blog.isquaredsoftware.com/2018/03/\u003cem\u003eredux\u003c/em\u003e-not-dead-yet/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "fagnerbrack",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-04-26T12:53:32.000Z",
+      "title": "Golang SSH Redux",
+      "url": "https://bridge.grumpy-troll.org/2017/04/golang-ssh-redux/",
+      "author": "EdiX",
+      "points": 213,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 42,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1493211212,
+      "relevancy_score": 7392,
+      "_tags": [
+        "story",
+        "author_EdiX",
+        "story_14202520"
+      ],
+      "objectID": "14202520",
+      "_highlightResult": {
+        "title": {
+          "value": "Golang SSH \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://bridge.grumpy-troll.org/2017/04/golang-ssh-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "EdiX",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-08-18T12:20:23.000Z",
+      "title": "Redux vs. The React Context API",
+      "url": "https://daveceddia.com/context-api-vs-redux/",
+      "author": "wheresvic1",
+      "points": 207,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 73,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1534594823,
+      "relevancy_score": 8306,
+      "_tags": [
+        "story",
+        "author_wheresvic1",
+        "story_17788140"
+      ],
+      "objectID": "17788140",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e vs. The React Context API",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://daveceddia.com/context-api-vs-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "wheresvic1",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-01-20T19:53:07.000Z",
+      "title": "Why React/Redux is inferior as a paradigm",
+      "url": "http://staltz.com/why-react-redux-is-an-inferior-paradigm.html",
+      "author": "scottcorgan",
+      "points": 198,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 143,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1453319587,
+      "relevancy_score": 6505,
+      "_tags": [
+        "story",
+        "author_scottcorgan",
+        "story_10940845"
+      ],
+      "objectID": "10940845",
+      "_highlightResult": {
+        "title": {
+          "value": "Why React/\u003cem\u003eRedux\u003c/em\u003e is inferior as a paradigm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://staltz.com/why-react-\u003cem\u003eredux\u003c/em\u003e-is-an-inferior-paradigm.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "scottcorgan",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-07-05T07:25:42.000Z",
+      "title": "Redux: Atomic Flux with Hot Reloading",
+      "url": "https://github.com/gaearon/redux",
+      "author": "monort",
+      "points": 186,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 44,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1436081142,
+      "relevancy_score": 6115,
+      "_tags": [
+        "story",
+        "author_monort",
+        "story_9832825"
+      ],
+      "objectID": "9832825",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e: Atomic Flux with Hot Reloading",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/gaearon/\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "monort",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-02-18T08:05:33.000Z",
+      "title": "Mern: Build JavaScript apps using React and Redux",
+      "url": "http://mern.io/",
+      "author": "sinkensabe",
+      "points": 175,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 133,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1455782733,
+      "relevancy_score": 6559,
+      "_tags": [
+        "story",
+        "author_sinkensabe",
+        "story_11124375"
+      ],
+      "objectID": "11124375",
+      "_highlightResult": {
+        "title": {
+          "value": "Mern: Build JavaScript apps using React and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://mern.io/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "sinkensabe",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-10-27T14:50:06.000Z",
+      "title": "Django React/Redux Base Project",
+      "url": "https://github.com/Seedstars/django-react-redux-base",
+      "author": "pergomes",
+      "points": 175,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 75,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1477579806,
+      "relevancy_score": 7043,
+      "_tags": [
+        "story",
+        "author_pergomes",
+        "story_12805514"
+      ],
+      "objectID": "12805514",
+      "_highlightResult": {
+        "title": {
+          "value": "Django React/\u003cem\u003eRedux\u003c/em\u003e Base Project",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/Seedstars/django-react-\u003cem\u003eredux\u003c/em\u003e-base",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "pergomes",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-03-30T14:55:40.000Z",
+      "title": "Show HN: Redux Offline – Build Offline-First Apps for Web and React Native",
+      "url": "https://github.com/jevakallio/redux-offline",
+      "author": "thekenwheeler",
+      "points": 174,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 41,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1490885740,
+      "relevancy_score": 7338,
+      "_tags": [
+        "story",
+        "author_thekenwheeler",
+        "story_13995891",
+        "show_hn"
+      ],
+      "objectID": "13995891",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: \u003cem\u003eRedux\u003c/em\u003e Offline – Build Offline-First Apps for Web and React Native",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/jevakallio/\u003cem\u003eredux\u003c/em\u003e-offline",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "thekenwheeler",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-11-22T17:17:18.000Z",
+      "title": "Katana – Modern Swift framework for creating iOS apps, inspired by React/Redux",
+      "url": "https://github.com/BendingSpoons/katana-swift",
+      "author": "Feanim",
+      "points": 162,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 52,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1479835038,
+      "relevancy_score": 7096,
+      "_tags": [
+        "story",
+        "author_Feanim",
+        "story_13015581"
+      ],
+      "objectID": "13015581",
+      "_highlightResult": {
+        "title": {
+          "value": "Katana – Modern Swift framework for creating iOS apps, inspired by React/\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/BendingSpoons/katana-swift",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Feanim",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-05-02T22:15:56.000Z",
+      "title": "Relax – A New Generation CMS on Top of React, Redux, and GraphQL",
+      "url": "http://getrelax.io/",
+      "author": "nikolay",
+      "points": 149,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 58,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1462227356,
+      "relevancy_score": 6707,
+      "_tags": [
+        "story",
+        "author_nikolay",
+        "story_11616155"
+      ],
+      "objectID": "11616155",
+      "_highlightResult": {
+        "title": {
+          "value": "Relax – A New Generation CMS on Top of React, \u003cem\u003eRedux\u003c/em\u003e, and GraphQL",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://getrelax.io/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nikolay",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-12-11T05:56:48.000Z",
+      "title": "Call me maybe: Redis redux",
+      "url": "http://aphyr.com/posts/307-call-me-maybe-redis-redux",
+      "author": "llambda",
+      "points": 144,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 23,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1386741408,
+      "relevancy_score": 5027,
+      "_tags": [
+        "story",
+        "author_llambda",
+        "story_6886142"
+      ],
+      "objectID": "6886142",
+      "_highlightResult": {
+        "title": {
+          "value": "Call me maybe: Redis \u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://aphyr.com/posts/307-call-me-maybe-redis-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "llambda",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-06-08T16:36:59.000Z",
+      "title": "JavaScript Power Tools: Real-World Redux-Saga Patterns",
+      "url": "http://formidable.com/blog/2017/real-world-redux-saga-patterns/",
+      "author": "thekenwheeler",
+      "points": 138,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 41,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1496939819,
+      "relevancy_score": 7473,
+      "_tags": [
+        "story",
+        "author_thekenwheeler",
+        "story_14515308"
+      ],
+      "objectID": "14515308",
+      "_highlightResult": {
+        "title": {
+          "value": "JavaScript Power Tools: Real-World \u003cem\u003eRedux\u003c/em\u003e-Saga Patterns",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://formidable.com/blog/2017/real-world-\u003cem\u003eredux\u003c/em\u003e-saga-patterns/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "thekenwheeler",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-02-27T21:04:06.000Z",
+      "title": "Step by Step Guide to Building React Redux Apps",
+      "url": "https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.5qbuaxkrf",
+      "author": "node-bayarea",
+      "points": 133,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 29,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1456607046,
+      "relevancy_score": 6572,
+      "_tags": [
+        "story",
+        "author_node-bayarea",
+        "story_11188484"
+      ],
+      "objectID": "11188484",
+      "_highlightResult": {
+        "title": {
+          "value": "Step by Step Guide to Building React \u003cem\u003eRedux\u003c/em\u003e Apps",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-\u003cem\u003eredux\u003c/em\u003e-apps-using-mocks-48ca0f47f9a#.5qbuaxkrf",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "node-bayarea",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-12T17:18:34.000Z",
+      "title": "Modeling Redux with TLA+",
+      "url": "https://www.hillelwayne.com/post/tla-redux/",
+      "author": "hellerve",
+      "points": 132,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 33,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1520875114,
+      "relevancy_score": 8010,
+      "_tags": [
+        "story",
+        "author_hellerve",
+        "story_16569653"
+      ],
+      "objectID": "16569653",
+      "_highlightResult": {
+        "title": {
+          "value": "Modeling \u003cem\u003eRedux\u003c/em\u003e with TLA+",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://www.hillelwayne.com/post/tla-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "hellerve",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-05T21:57:20.000Z",
+      "title": "How to optimize React applications that use Redux",
+      "url": "https://reactrocket.com/post/react-redux-optimization/",
+      "author": "juliankrispel",
+      "points": 130,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 74,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1499291840,
+      "relevancy_score": 7526,
+      "_tags": [
+        "story",
+        "author_juliankrispel",
+        "story_14706430"
+      ],
+      "objectID": "14706430",
+      "_highlightResult": {
+        "title": {
+          "value": "How to optimize React applications that use \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://reactrocket.com/post/react-\u003cem\u003eredux\u003c/em\u003e-optimization/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "juliankrispel",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-04-02T18:38:23.000Z",
+      "title": "Webserver Back End with Orleans Actor System, Dotnet Core and Server-Side Redux",
+      "url": "https://medium.com/@MaartenSikkema/using-dotnet-core-orleans-redux-and-websockets-to-build-a-scalable-realtime-back-end-cd0b65ec6b4d",
+      "author": "Maarten88",
+      "points": 129,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 29,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1491158303,
+      "relevancy_score": 7338,
+      "_tags": [
+        "story",
+        "author_Maarten88",
+        "story_14018325"
+      ],
+      "objectID": "14018325",
+      "_highlightResult": {
+        "title": {
+          "value": "Webserver Back End with Orleans Actor System, Dotnet Core and Server-Side \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/@MaartenSikkema/using-dotnet-core-orleans-\u003cem\u003eredux\u003c/em\u003e-and-websockets-to-build-a-scalable-realtime-back-end-cd0b65ec6b4d",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "Maarten88",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-06-18T17:48:16.000Z",
+      "title": "Go and Simplicity Debt Redux",
+      "url": "https://dave.cheney.net/2017/06/18/simplicity-debt-redux",
+      "author": "xyzzy_plugh",
+      "points": 127,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 152,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1497808096,
+      "relevancy_score": 7486,
+      "_tags": [
+        "story",
+        "author_xyzzy_plugh",
+        "story_14581871"
+      ],
+      "objectID": "14581871",
+      "_highlightResult": {
+        "title": {
+          "value": "Go and Simplicity Debt \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://dave.cheney.net/2017/06/18/simplicity-debt-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "xyzzy_plugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-02-14T17:32:39.000Z",
+      "title": "Redux-query – A React/Redux library for querying and managing network state",
+      "url": "https://amplitude.engineering/introducing-redux-query-7734e7215b3b",
+      "author": "ryanashcraft",
+      "points": 127,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 61,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1487093559,
+      "relevancy_score": 7258,
+      "_tags": [
+        "story",
+        "author_ryanashcraft",
+        "story_13645293"
+      ],
+      "objectID": "13645293",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e-query – A React/\u003cem\u003eRedux\u003c/em\u003e library for querying and managing network state",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://amplitude.engineering/introducing-\u003cem\u003eredux\u003c/em\u003e-query-7734e7215b3b",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "ryanashcraft",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-07-27T22:10:29.000Z",
+      "title": "Macbook eGPU Redux: Sticking a GTX 1080 in an AKiTiO Thunder2",
+      "url": "http://archagon.net/blog/2018/07/25/egpu-redux/",
+      "author": "archagon",
+      "points": 125,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 58,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1532729429,
+      "relevancy_score": 8266,
+      "_tags": [
+        "story",
+        "author_archagon",
+        "story_17629855"
+      ],
+      "objectID": "17629855",
+      "_highlightResult": {
+        "title": {
+          "value": "Macbook eGPU \u003cem\u003eRedux\u003c/em\u003e: Sticking a GTX 1080 in an AKiTiO Thunder2",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://archagon.net/blog/2018/07/25/egpu-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "archagon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-04-15T16:19:47.000Z",
+      "title": "React/Redux Links: a curated list of tutorials for React, Redux, ES6, and more",
+      "url": "https://github.com/markerikson/react-redux-links",
+      "author": "acemarke",
+      "points": 125,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 32,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1460737187,
+      "relevancy_score": 6666,
+      "_tags": [
+        "story",
+        "author_acemarke",
+        "story_11505484"
+      ],
+      "objectID": "11505484",
+      "_highlightResult": {
+        "title": {
+          "value": "React/\u003cem\u003eRedux\u003c/em\u003e Links: a curated list of tutorials for React, \u003cem\u003eRedux\u003c/em\u003e, ES6, and more",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/markerikson/react-\u003cem\u003eredux\u003c/em\u003e-links",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "acemarke",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-11-25T19:22:24.000Z",
+      "title": "A Simple Way to Route with Redux",
+      "url": "http://jlongster.com/A-Simple-Way-to-Route-with-Redux",
+      "author": "jlongster",
+      "points": 124,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 54,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1448479344,
+      "relevancy_score": 6397,
+      "_tags": [
+        "story",
+        "author_jlongster",
+        "story_10629001"
+      ],
+      "objectID": "10629001",
+      "_highlightResult": {
+        "title": {
+          "value": "A Simple Way to Route with \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://jlongster.com/A-Simple-Way-to-Route-with-\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "jlongster",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-07T03:04:34.000Z",
+      "title": "Idiomatic Redux: Implementation and Intent",
+      "url": "http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/",
+      "author": "myth_drannon",
+      "points": 123,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 78,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1499396674,
+      "relevancy_score": 7526,
+      "_tags": [
+        "story",
+        "author_myth_drannon",
+        "story_14715718"
+      ],
+      "objectID": "14715718",
+      "_highlightResult": {
+        "title": {
+          "value": "Idiomatic \u003cem\u003eRedux\u003c/em\u003e: Implementation and Intent",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://blog.isquaredsoftware.com/2017/05/idiomatic-\u003cem\u003eredux\u003c/em\u003e-tao-of-\u003cem\u003eredux\u003c/em\u003e-part-1/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "myth_drannon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-04-13T14:49:47.000Z",
+      "title": "Two Weird Tricks with Redux",
+      "url": "http://jlongster.com/Two-Weird-Tricks-with-Redux",
+      "author": "jlongster",
+      "points": 122,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 33,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1460558987,
+      "relevancy_score": 6666,
+      "_tags": [
+        "story",
+        "author_jlongster",
+        "story_11488633"
+      ],
+      "objectID": "11488633",
+      "_highlightResult": {
+        "title": {
+          "value": "Two Weird Tricks with \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://jlongster.com/Two-Weird-Tricks-with-\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "jlongster",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-08-19T09:42:52.000Z",
+      "title": "React and Redux are a joke right?",
+      "url": "https://games.greggman.com/game/react-and-redux-are-a-joke-right/",
+      "author": "oal",
+      "points": 120,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 117,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1503135772,
+      "relevancy_score": 7607,
+      "_tags": [
+        "story",
+        "author_oal",
+        "story_15052555"
+      ],
+      "objectID": "15052555",
+      "_highlightResult": {
+        "title": {
+          "value": "React and \u003cem\u003eRedux\u003c/em\u003e are a joke right?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://games.greggman.com/game/react-and-\u003cem\u003eredux\u003c/em\u003e-are-a-joke-right/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "oal",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-03-20T13:35:35.000Z",
+      "title": "Full-Stack Redux Tutorial",
+      "url": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
+      "author": "ranit",
+      "points": 113,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 6,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1458480935,
+      "relevancy_score": 6613,
+      "_tags": [
+        "story",
+        "author_ranit",
+        "story_11322841"
+      ],
+      "objectID": "11322841",
+      "_highlightResult": {
+        "title": {
+          "value": "Full-Stack \u003cem\u003eRedux\u003c/em\u003e Tutorial",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://teropa.info/blog/2015/09/10/full-stack-\u003cem\u003eredux\u003c/em\u003e-tutorial.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "ranit",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-04-30T19:47:08.000Z",
+      "title": "Glacier redux",
+      "url": "http://storagemojo.com/2014/04/30/glacier-redux/",
+      "author": "wmf",
+      "points": 112,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 54,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1398887228,
+      "relevancy_score": 5295,
+      "_tags": [
+        "story",
+        "author_wmf",
+        "story_7675878"
+      ],
+      "objectID": "7675878",
+      "_highlightResult": {
+        "title": {
+          "value": "Glacier \u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://storagemojo.com/2014/04/30/glacier-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "wmf",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-11-17T15:47:07.000Z",
+      "title": "Show HN: LogRocket – Record and Replay for Redux Apps",
+      "url": "https://logrocket.com",
+      "author": "arbesfeld",
+      "points": 111,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 30,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1479397627,
+      "relevancy_score": 7083,
+      "_tags": [
+        "story",
+        "author_arbesfeld",
+        "story_12978427",
+        "show_hn"
+      ],
+      "objectID": "12978427",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: LogRocket – Record and Replay for \u003cem\u003eRedux\u003c/em\u003e Apps",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://logrocket.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "arbesfeld",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-05-02T12:39:37.000Z",
+      "title": "Show HN: Discover new music through an infinite suggestion graph (React/Redux)",
+      "url": "http://panther.audio/",
+      "author": "joshwcomeau",
+      "points": 108,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 39,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1462192777,
+      "relevancy_score": 6707,
+      "_tags": [
+        "story",
+        "author_joshwcomeau",
+        "story_11610832",
+        "show_hn"
+      ],
+      "objectID": "11610832",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Discover new music through an infinite suggestion graph (React/\u003cem\u003eRedux\u003c/em\u003e)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://panther.audio/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "joshwcomeau",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-08-09T03:42:00.000Z",
+      "title": "IO-808: A Web-Based TR-808 Drum Machine Using React, Redux, and Web Audio API",
+      "url": "http://io808.com/",
+      "author": "sebg",
+      "points": 106,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 18,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1470714120,
+      "relevancy_score": 6895,
+      "_tags": [
+        "story",
+        "author_sebg",
+        "story_12252462"
+      ],
+      "objectID": "12252462",
+      "_highlightResult": {
+        "title": {
+          "value": "IO-808: A Web-Based TR-808 Drum Machine Using React, \u003cem\u003eRedux\u003c/em\u003e, and Web Audio API",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://io808.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "sebg",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-05-21T08:38:23.000Z",
+      "title": "Porting to Python 3 Redux",
+      "url": "http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/",
+      "author": "dous",
+      "points": 98,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 18,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1369125503,
+      "relevancy_score": 4637,
+      "_tags": [
+        "story",
+        "author_dous",
+        "story_5742482"
+      ],
+      "objectID": "5742482",
+      "_highlightResult": {
+        "title": {
+          "value": "Porting to Python 3 \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "dous",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-10-01T17:35:31.000Z",
+      "title": "Make with Ada: Redux",
+      "url": "https://nocko.se/blog/make-with-ada-redux/",
+      "author": "Raphael_Amiard",
+      "points": 97,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 27,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1475343331,
+      "relevancy_score": 6989,
+      "_tags": [
+        "story",
+        "author_Raphael_Amiard",
+        "story_12618925"
+      ],
+      "objectID": "12618925",
+      "_highlightResult": {
+        "title": {
+          "value": "Make with Ada: \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://nocko.se/blog/make-with-ada-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "Raphael_Amiard",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-12-05T02:08:46.000Z",
+      "title": "React Redux 6.0 released",
+      "url": "https://github.com/reduxjs/react-redux/releases/tag/v6.0.0",
+      "author": "MBCook",
+      "points": 84,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 30,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1543975726,
+      "relevancy_score": 8521,
+      "_tags": [
+        "story",
+        "author_MBCook",
+        "story_18605208"
+      ],
+      "objectID": "18605208",
+      "_highlightResult": {
+        "title": {
+          "value": "React \u003cem\u003eRedux\u003c/em\u003e 6.0 released",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/\u003cem\u003eredux\u003c/em\u003ejs/react-\u003cem\u003eredux\u003c/em\u003e/releases/tag/v6.0.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "MBCook",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-10-05T19:28:06.000Z",
+      "title": "The 3REE Stack: React, Redux, RethinkDB and Express.js",
+      "url": "http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/",
+      "author": "kohlikohl",
+      "points": 81,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 18,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1444073286,
+      "relevancy_score": 6303,
+      "_tags": [
+        "story",
+        "author_kohlikohl",
+        "story_10334194"
+      ],
+      "objectID": "10334194",
+      "_highlightResult": {
+        "title": {
+          "value": "The 3REE Stack: React, \u003cem\u003eRedux\u003c/em\u003e, RethinkDB and Express.js",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://blog.workshape.io/the-3ree-stack-react-\u003cem\u003eredux\u003c/em\u003e-rethinkdb-express-js/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "kohlikohl",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-02-28T14:33:06.000Z",
+      "title": "Redesigning Redux",
+      "url": "https://medium.com/@ShMcK/redesigning-redux-b2baee8b8a38",
+      "author": "ShMcK",
+      "points": 80,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 86,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1519828386,
+      "relevancy_score": 7983,
+      "_tags": [
+        "story",
+        "author_ShMcK",
+        "story_16483206"
+      ],
+      "objectID": "16483206",
+      "_highlightResult": {
+        "title": {
+          "value": "Redesigning \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/@ShMcK/redesigning-\u003cem\u003eredux\u003c/em\u003e-b2baee8b8a38",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "ShMcK",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-13T17:04:07.000Z",
+      "title": "How GraphQL Replaces Redux",
+      "url": "https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d",
+      "author": "gregorymichael",
+      "points": 80,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 58,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1520960647,
+      "relevancy_score": 8010,
+      "_tags": [
+        "story",
+        "author_gregorymichael",
+        "story_16577625"
+      ],
+      "objectID": "16577625",
+      "_highlightResult": {
+        "title": {
+          "value": "How GraphQL Replaces \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://hackernoon.com/how-graphql-replaces-\u003cem\u003eredux\u003c/em\u003e-3fff8289221d",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "gregorymichael",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-09-11T19:33:48.000Z",
+      "title": "Redux Blog Example",
+      "url": "https://github.com/GetExpert/redux-blog-example",
+      "author": "olegakbarov",
+      "points": 80,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 20,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1442000028,
+      "relevancy_score": 6250,
+      "_tags": [
+        "story",
+        "author_olegakbarov",
+        "story_10205716"
+      ],
+      "objectID": "10205716",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e Blog Example",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/GetExpert/\u003cem\u003eredux\u003c/em\u003e-blog-example",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "olegakbarov",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-07-04T14:05:56.000Z",
+      "title": "Lager: Unidirectional data-flow for C++ inspired by Redux and Elm",
+      "url": "https://sinusoid.es/lager",
+      "author": "arximboldi",
+      "points": 80,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 8,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1562249156,
+      "relevancy_score": 8924,
+      "_tags": [
+        "story",
+        "author_arximboldi",
+        "story_20354732"
+      ],
+      "objectID": "20354732",
+      "_highlightResult": {
+        "title": {
+          "value": "Lager: Unidirectional data-flow for C++ inspired by \u003cem\u003eRedux\u003c/em\u003e and Elm",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://sinusoid.es/lager",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "arximboldi",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-10-15T01:44:27.000Z",
+      "title": "Show HN: I Built a Metasearch Engine with React, Redux, Express and TypeScript",
+      "url": "https://github.com/JoshuaScript/spresso-search",
+      "author": "JoshuaScript",
+      "points": 79,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 42,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1539567867,
+      "relevancy_score": 8427,
+      "_tags": [
+        "story",
+        "author_JoshuaScript",
+        "story_18216836",
+        "show_hn"
+      ],
+      "objectID": "18216836",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: I Built a Metasearch Engine with React, \u003cem\u003eRedux\u003c/em\u003e, Express and TypeScript",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/JoshuaScript/spresso-search",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "JoshuaScript",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-10-18T17:47:14.000Z",
+      "title": "Show HN: Tello, a simple way to manage TV shows – built with React/Redux",
+      "url": "https://tello.tv",
+      "author": "joshwcomeau",
+      "points": 78,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 58,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1508348834,
+      "relevancy_score": 7728,
+      "_tags": [
+        "story",
+        "author_joshwcomeau",
+        "story_15501238",
+        "show_hn"
+      ],
+      "objectID": "15501238",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Tello, a simple way to manage TV shows – built with React/\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://tello.tv",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "joshwcomeau",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-11-20T07:47:11.000Z",
+      "title": "How Redux Works: A Counter-Example",
+      "url": "https://daveceddia.com/how-does-redux-work/",
+      "author": "kiyanwang",
+      "points": 74,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 81,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1511164031,
+      "relevancy_score": 7795,
+      "_tags": [
+        "story",
+        "author_kiyanwang",
+        "story_15738441"
+      ],
+      "objectID": "15738441",
+      "_highlightResult": {
+        "title": {
+          "value": "How \u003cem\u003eRedux\u003c/em\u003e Works: A Counter-Example",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://daveceddia.com/how-does-\u003cem\u003eredux\u003c/em\u003e-work/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "kiyanwang",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-04-21T13:07:05.000Z",
+      "title": "Show HN: Battleship game built with Elixir, Phoenix, React and Redux",
+      "url": "https://github.com/bigardone/phoenix-battleship",
+      "author": "javiercr",
+      "points": 73,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 10,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1461244025,
+      "relevancy_score": 6680,
+      "_tags": [
+        "story",
+        "author_javiercr",
+        "story_11541775",
+        "show_hn"
+      ],
+      "objectID": "11541775",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Battleship game built with Elixir, Phoenix, React and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/bigardone/phoenix-battleship",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "javiercr",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-08-28T08:42:10.000Z",
+      "title": "Django and React/Redux Boilerplate Project",
+      "url": "https://github.com/seedstars/django-react-redux-base",
+      "author": "fgarci03",
+      "points": 72,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 22,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1503909730,
+      "relevancy_score": 7634,
+      "_tags": [
+        "story",
+        "author_fgarci03",
+        "story_15115243"
+      ],
+      "objectID": "15115243",
+      "_highlightResult": {
+        "title": {
+          "value": "Django and React/\u003cem\u003eRedux\u003c/em\u003e Boilerplate Project",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/seedstars/django-react-\u003cem\u003eredux\u003c/em\u003e-base",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "fgarci03",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-10-15T12:24:07.000Z",
+      "title": "Redux-devtools-extension v2.8.0: changes in the Graph Monitor",
+      "url": "https://github.com/zalmoxisus/redux-devtools-extension/releases/tag/v2.8.0",
+      "author": "Cuuugi",
+      "points": 69,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 13,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1476534247,
+      "relevancy_score": 7016,
+      "_tags": [
+        "story",
+        "author_Cuuugi",
+        "story_12713722"
+      ],
+      "objectID": "12713722",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e-devtools-extension v2.8.0: changes in the Graph Monitor",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/zalmoxisus/\u003cem\u003eredux\u003c/em\u003e-devtools-extension/releases/tag/v2.8.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "Cuuugi",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-12-07T08:47:10.000Z",
+      "title": "Building realtime collaborative offline-first apps with React, Redux, PouchDB",
+      "url": "http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/",
+      "author": "tilt",
+      "points": 67,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 14,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1449478030,
+      "relevancy_score": 6424,
+      "_tags": [
+        "story",
+        "author_tilt",
+        "story_10688447"
+      ],
+      "objectID": "10688447",
+      "_highlightResult": {
+        "title": {
+          "value": "Building realtime collaborative offline-first apps with React, \u003cem\u003eRedux\u003c/em\u003e, PouchDB",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-\u003cem\u003eredux\u003c/em\u003e-pouchdb-and-web-sockets/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "tilt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-05-17T17:08:03.000Z",
+      "title": "Show HN: Neural Network Visualizer Classifying Handwriting – D3/Redux",
+      "url": "http://nn-mnist.sennabaum.com",
+      "author": "CSenn",
+      "points": 64,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 19,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1463504883,
+      "relevancy_score": 6733,
+      "_tags": [
+        "story",
+        "author_CSenn",
+        "story_11715285",
+        "show_hn"
+      ],
+      "objectID": "11715285",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Neural Network Visualizer Classifying Handwriting – D3/\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://nn-mnist.sennabaum.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "CSenn",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-12-14T09:49:20.000Z",
+      "title": "React-redux v5.0.0",
+      "url": "https://github.com/reactjs/react-redux/releases/tag/v5.0.0",
+      "author": "jbraithwaite",
+      "points": 63,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 3,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1481708960,
+      "relevancy_score": 7137,
+      "_tags": [
+        "story",
+        "author_jbraithwaite",
+        "story_13174883"
+      ],
+      "objectID": "13174883",
+      "_highlightResult": {
+        "title": {
+          "value": "React-\u003cem\u003eredux\u003c/em\u003e v5.0.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/reactjs/react-\u003cem\u003eredux\u003c/em\u003e/releases/tag/v5.0.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "jbraithwaite",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-10-20T20:57:44.000Z",
+      "title": "Redux-zero: A lightweight state container based on Redux",
+      "url": "https://github.com/concretesolutions/redux-zero",
+      "author": "uptown",
+      "points": 62,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 38,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1508533064,
+      "relevancy_score": 7728,
+      "_tags": [
+        "story",
+        "author_uptown",
+        "story_15519059"
+      ],
+      "objectID": "15519059",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e-zero: A lightweight state container based on \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/concretesolutions/\u003cem\u003eredux\u003c/em\u003e-zero",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "uptown",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-09-09T14:14:25.000Z",
+      "title": "Learn how to use Redux step-by-step",
+      "url": "https://github.com/happypoulp/redux-tutorial",
+      "author": "bryanrasmussen",
+      "points": 61,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 31,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1504966465,
+      "relevancy_score": 7647,
+      "_tags": [
+        "story",
+        "author_bryanrasmussen",
+        "story_15207173"
+      ],
+      "objectID": "15207173",
+      "_highlightResult": {
+        "title": {
+          "value": "Learn how to use \u003cem\u003eRedux\u003c/em\u003e step-by-step",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/happypoulp/\u003cem\u003eredux\u003c/em\u003e-tutorial",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "bryanrasmussen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-26T19:12:06.000Z",
+      "title": "Show HN: Kea – The power of Redux with the simplicity of MobX",
+      "url": "https://kea.js.org",
+      "author": "mariusandra",
+      "points": 60,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 40,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1501096326,
+      "relevancy_score": 7567,
+      "_tags": [
+        "story",
+        "author_mariusandra",
+        "story_14859206",
+        "show_hn"
+      ],
+      "objectID": "14859206",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Kea – The power of \u003cem\u003eRedux\u003c/em\u003e with the simplicity of MobX",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://kea.js.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mariusandra",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-16T19:53:07.000Z",
+      "title": "Show HN: A workout logger written using React/Redux",
+      "url": "https://ewolo.fitness",
+      "author": "wheresvic1",
+      "points": 58,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 50,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1500234787,
+      "relevancy_score": 7540,
+      "_tags": [
+        "story",
+        "author_wheresvic1",
+        "story_14783831",
+        "show_hn"
+      ],
+      "objectID": "14783831",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: A workout logger written using React/\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://ewolo.fitness",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "wheresvic1",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-06-12T04:32:21.000Z",
+      "title": "Building React Applications with Idiomatic Redux",
+      "url": "https://egghead.io/courses/building-react-applications-with-idiomatic-redux",
+      "author": "aleem",
+      "points": 58,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 6,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1465705941,
+      "relevancy_score": 6774,
+      "_tags": [
+        "story",
+        "author_aleem",
+        "story_11886662"
+      ],
+      "objectID": "11886662",
+      "_highlightResult": {
+        "title": {
+          "value": "Building React Applications with Idiomatic \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://egghead.io/courses/building-react-applications-with-idiomatic-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "aleem",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-02-18T17:54:49.000Z",
+      "title": "R-Factor – React and Redux Refactoring Tools",
+      "url": "https://medium.com/@rfactor/r-factor-react-redux-refactoring-tools-bb072e99b2d7",
+      "author": "kamilm",
+      "points": 54,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1550512489,
+      "relevancy_score": 8669,
+      "_tags": [
+        "story",
+        "author_kamilm",
+        "story_19192587"
+      ],
+      "objectID": "19192587",
+      "_highlightResult": {
+        "title": {
+          "value": "R-Factor – React and \u003cem\u003eRedux\u003c/em\u003e Refactoring Tools",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/@rfactor/r-factor-react-\u003cem\u003eredux\u003c/em\u003e-refactoring-tools-bb072e99b2d7",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "kamilm",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-01-04T14:30:19.000Z",
+      "title": "Hands-on with virtual reality using A-Frame, React and Redux",
+      "url": "https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.cfmodcayu",
+      "author": "sebg",
+      "points": 53,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 8,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1451917819,
+      "relevancy_score": 6478,
+      "_tags": [
+        "story",
+        "author_sebg",
+        "story_10835758"
+      ],
+      "objectID": "10835758",
+      "_highlightResult": {
+        "title": {
+          "value": "Hands-on with virtual reality using A-Frame, React and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-\u003cem\u003eredux\u003c/em\u003e-bc66240834f7#.cfmodcayu",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "sebg",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-09-07T06:25:54.000Z",
+      "title": "Why we needed Redux in the past, and don’t any more",
+      "url": "https://hackernoon.com/goodbye-redux-26e6a27b3a0b",
+      "author": "kiyanwang",
+      "points": 52,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 58,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1536301554,
+      "relevancy_score": 8346,
+      "_tags": [
+        "story",
+        "author_kiyanwang",
+        "story_17932270"
+      ],
+      "objectID": "17932270",
+      "_highlightResult": {
+        "title": {
+          "value": "Why we needed \u003cem\u003eRedux\u003c/em\u003e in the past, and don’t any more",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://hackernoon.com/goodbye-\u003cem\u003eredux\u003c/em\u003e-26e6a27b3a0b",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "kiyanwang",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-26T18:21:42.000Z",
+      "title": "Offline GraphQL Queries with Redux Offline and Apollo",
+      "url": "http://www.east5th.co/blog/2017/07/24/offline-graphql-queries-with-redux-offline-and-apollo/",
+      "author": "pcorey",
+      "points": 51,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1501093302,
+      "relevancy_score": 7567,
+      "_tags": [
+        "story",
+        "author_pcorey",
+        "story_14858748"
+      ],
+      "objectID": "14858748",
+      "_highlightResult": {
+        "title": {
+          "value": "Offline GraphQL Queries with \u003cem\u003eRedux\u003c/em\u003e Offline and Apollo",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.east5th.co/blog/2017/07/24/offline-graphql-queries-with-\u003cem\u003eredux\u003c/em\u003e-offline-and-apollo/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "pcorey",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-02-01T01:51:42.000Z",
+      "title": "Show HN: Reactuate – a React/Redux stack with a focus on domain-driven design",
+      "url": "https://github.com/reactuate/reactuate",
+      "author": "yrashk",
+      "points": 49,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 32,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1454291502,
+      "relevancy_score": 6532,
+      "_tags": [
+        "story",
+        "author_yrashk",
+        "story_11009143",
+        "show_hn"
+      ],
+      "objectID": "11009143",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Reactuate – a React/\u003cem\u003eRedux\u003c/em\u003e stack with a focus on domain-driven design",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/reactuate/reactuate",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "yrashk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-06-07T17:52:58.000Z",
+      "title": "Show HN: ReactCSS – Inline Styles with Support for React, Redux and React Native",
+      "url": "http://reactcss.com/",
+      "author": "casesandberg",
+      "points": 47,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 46,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1465321978,
+      "relevancy_score": 6774,
+      "_tags": [
+        "story",
+        "author_casesandberg",
+        "story_11856247",
+        "show_hn"
+      ],
+      "objectID": "11856247",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: ReactCSS – Inline Styles with Support for React, \u003cem\u003eRedux\u003c/em\u003e and React Native",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://reactcss.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "casesandberg",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-03-13T08:47:06.000Z",
+      "title": "Features are faults redux",
+      "url": "http://www.tedunangst.com/flak/post/features-are-faults-redux",
+      "author": "vog",
+      "points": 47,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 11,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1489394826,
+      "relevancy_score": 7311,
+      "_tags": [
+        "story",
+        "author_vog",
+        "story_13856194"
+      ],
+      "objectID": "13856194",
+      "_highlightResult": {
+        "title": {
+          "value": "Features are faults \u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.tedunangst.com/flak/post/features-are-faults-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "vog",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-26T03:19:52.000Z",
+      "title": "Show HN: SoundMoose – open source music discovery app based on Angular 2, Redux",
+      "url": "http://www.soundmoose.com",
+      "author": "stefan_r",
+      "points": 45,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 35,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1485400792,
+      "relevancy_score": 7217,
+      "_tags": [
+        "story",
+        "author_stefan_r",
+        "story_13488426",
+        "show_hn"
+      ],
+      "objectID": "13488426",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: SoundMoose – open source music discovery app based on Angular 2, \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.soundmoose.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "stefan_r",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-06-16T14:39:54.000Z",
+      "title": "React-Starter-Kit – Open Source Universal React Redux GraphQL Boilerplate",
+      "url": "https://github.com/reactjs-starter-kit/React-Starter-Kit",
+      "author": "reactkit",
+      "points": 43,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 25,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1529159994,
+      "relevancy_score": 8185,
+      "_tags": [
+        "story",
+        "author_reactkit",
+        "story_17327584"
+      ],
+      "objectID": "17327584",
+      "_highlightResult": {
+        "title": {
+          "value": "React-Starter-Kit – Open Source Universal React \u003cem\u003eRedux\u003c/em\u003e GraphQL Boilerplate",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/reactjs-starter-kit/React-Starter-Kit",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "reactkit",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-09-18T10:08:32.000Z",
+      "title": "Show HN: Redux-undo – Simple undo/redo functionality for Redux state containers",
+      "url": "https://github.com/omnidan/redux-undo",
+      "author": "omnidan",
+      "points": 41,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 4,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1442570912,
+      "relevancy_score": 6263,
+      "_tags": [
+        "story",
+        "author_omnidan",
+        "story_10238312",
+        "show_hn"
+      ],
+      "objectID": "10238312",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: \u003cem\u003eRedux\u003c/em\u003e-undo – Simple undo/redo functionality for \u003cem\u003eRedux\u003c/em\u003e state containers",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/omnidan/\u003cem\u003eredux\u003c/em\u003e-undo",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "omnidan",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-02-16T19:18:09.000Z",
+      "title": "Django React Redux JWT Base Project",
+      "url": "https://github.com/Seedstars/django-react-redux-jwt-base",
+      "author": "lfrodrigues",
+      "points": 38,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 26,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1455650289,
+      "relevancy_score": 6559,
+      "_tags": [
+        "story",
+        "author_lfrodrigues",
+        "story_11112377"
+      ],
+      "objectID": "11112377",
+      "_highlightResult": {
+        "title": {
+          "value": "Django React \u003cem\u003eRedux\u003c/em\u003e JWT Base Project",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/Seedstars/django-react-\u003cem\u003eredux\u003c/em\u003e-jwt-base",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "lfrodrigues",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-01T12:03:58.000Z",
+      "title": "RIP Redux: Dan Abramovich Announces Future-Fetcher",
+      "url": "https://react-etc.net/entry/rip-redux-dan-abramovich-announces-future-fetcher",
+      "author": "velmu",
+      "points": 35,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 45,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1519905838,
+      "relevancy_score": 7983,
+      "_tags": [
+        "story",
+        "author_velmu",
+        "story_16491323"
+      ],
+      "objectID": "16491323",
+      "_highlightResult": {
+        "title": {
+          "value": "RIP \u003cem\u003eRedux\u003c/em\u003e: Dan Abramovich Announces Future-Fetcher",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://react-etc.net/entry/rip-\u003cem\u003eredux\u003c/em\u003e-dan-abramovich-announces-future-fetcher",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "velmu",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-06-04T16:18:17.000Z",
+      "title": "Show HN: Redux-Tiles – library to deal with verbosity of Redux",
+      "url": "https://github.com/Bloomca/redux-tiles",
+      "author": "bloomca",
+      "points": 35,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 10,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1496593097,
+      "relevancy_score": 7459,
+      "_tags": [
+        "story",
+        "author_bloomca",
+        "story_14482215",
+        "show_hn"
+      ],
+      "objectID": "14482215",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: \u003cem\u003eRedux\u003c/em\u003e-Tiles – library to deal with verbosity of \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/Bloomca/\u003cem\u003eredux\u003c/em\u003e-tiles",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "bloomca",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-07-15T14:00:11.000Z",
+      "title": "Now Worth $10B, Is WeWork a 2000 Redux?",
+      "url": "http://www.wsj.com/articles/now-worth-10-billion-is-wework-a-2000-redux-1436910924",
+      "author": "gwallens",
+      "points": 34,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 53,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1436968811,
+      "relevancy_score": 6142,
+      "_tags": [
+        "story",
+        "author_gwallens",
+        "story_9891262"
+      ],
+      "objectID": "9891262",
+      "_highlightResult": {
+        "title": {
+          "value": "Now Worth $10B, Is WeWork a 2000 \u003cem\u003eRedux\u003c/em\u003e?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.wsj.com/articles/now-worth-10-billion-is-wework-a-2000-\u003cem\u003eredux\u003c/em\u003e-1436910924",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "gwallens",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-06-18T06:52:00.000Z",
+      "title": "A better way to represent loading state in ReactJS/Redux apps",
+      "url": "http://nikolay.rocks/2017-06-18-better-redux-loading",
+      "author": "NikolayN",
+      "points": 34,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 30,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1497768720,
+      "relevancy_score": 7486,
+      "_tags": [
+        "story",
+        "author_NikolayN",
+        "story_14579362"
+      ],
+      "objectID": "14579362",
+      "_highlightResult": {
+        "title": {
+          "value": "A better way to represent loading state in ReactJS/\u003cem\u003eRedux\u003c/em\u003e apps",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://nikolay.rocks/2017-06-18-better-\u003cem\u003eredux\u003c/em\u003e-loading",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "NikolayN",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-04-03T12:13:22.000Z",
+      "title": "The Redux book is now free for two weeks",
+      "url": "http://redux-book.com",
+      "author": "ilyagelman",
+      "points": 34,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1491221602,
+      "relevancy_score": 7352,
+      "_tags": [
+        "story",
+        "author_ilyagelman",
+        "story_14022169"
+      ],
+      "objectID": "14022169",
+      "_highlightResult": {
+        "title": {
+          "value": "The \u003cem\u003eRedux\u003c/em\u003e book is now free for two weeks",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://\u003cem\u003eredux\u003c/em\u003e-book.com",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "ilyagelman",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-10-08T12:30:40.000Z",
+      "title": "Redux Connector – Connect to redux state from within your JSX",
+      "url": "https://www.npmjs.com/package/redux-connector",
+      "author": "juliankrispel",
+      "points": 32,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 14,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1507465840,
+      "relevancy_score": 7701,
+      "_tags": [
+        "story",
+        "author_juliankrispel",
+        "story_15427954"
+      ],
+      "objectID": "15427954",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e Connector – Connect to \u003cem\u003eredux\u003c/em\u003e state from within your JSX",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://www.npmjs.com/package/\u003cem\u003eredux\u003c/em\u003e-connector",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "juliankrispel",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-04-04T16:14:05.000Z",
+      "title": "Redux Ecosystem Links: A categorized list of Redux-related addons and utilities",
+      "url": "https://github.com/markerikson/redux-ecosystem-links",
+      "author": "acemarke",
+      "points": 32,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 3,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1459786445,
+      "relevancy_score": 6653,
+      "_tags": [
+        "story",
+        "author_acemarke",
+        "story_11423025"
+      ],
+      "objectID": "11423025",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e Ecosystem Links: A categorized list of \u003cem\u003eRedux\u003c/em\u003e-related addons and utilities",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/markerikson/\u003cem\u003eredux\u003c/em\u003e-ecosystem-links",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "acemarke",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-12-19T20:32:42.000Z",
+      "title": "Elixir GenServer Explained to Redux Developers",
+      "url": "https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-redux-developers.html",
+      "author": "jdemangeon",
+      "points": 31,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 3,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1513715562,
+      "relevancy_score": 7848,
+      "_tags": [
+        "story",
+        "author_jdemangeon",
+        "story_15963968"
+      ],
+      "objectID": "15963968",
+      "_highlightResult": {
+        "title": {
+          "value": "Elixir GenServer Explained to \u003cem\u003eRedux\u003c/em\u003e Developers",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://marmelab.com/blog/2017/10/04/elixir-genserver-explained-to-\u003cem\u003eredux\u003c/em\u003e-developers.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "jdemangeon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-08-16T21:06:45.000Z",
+      "title": "GraphQL, REST, RPC, Who Cares? Keep a Single Redux Store with Iguazu",
+      "url": "https://americanexpress.io/graphql-rest-who-cares-redux-iguazu/",
+      "author": "tu14",
+      "points": 31,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1534453605,
+      "relevancy_score": 8305,
+      "_tags": [
+        "story",
+        "author_tu14",
+        "story_17778424"
+      ],
+      "objectID": "17778424",
+      "_highlightResult": {
+        "title": {
+          "value": "GraphQL, REST, RPC, Who Cares? Keep a Single \u003cem\u003eRedux\u003c/em\u003e Store with Iguazu",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://americanexpress.io/graphql-rest-who-cares-\u003cem\u003eredux\u003c/em\u003e-iguazu/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "tu14",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-05-13T13:34:36.000Z",
+      "title": "Show HN: Cqrs-react-router – A Redux alternative",
+      "url": "https://github.com/MichalPaszkiewicz/cqrs-react-router",
+      "author": "michjedi",
+      "points": 30,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 4,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1494682476,
+      "relevancy_score": 7418,
+      "_tags": [
+        "story",
+        "author_michjedi",
+        "story_14330873",
+        "show_hn"
+      ],
+      "objectID": "14330873",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Cqrs-react-router – A \u003cem\u003eRedux\u003c/em\u003e alternative",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/MichalPaszkiewicz/cqrs-react-router",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "michjedi",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-03-31T18:19:57.000Z",
+      "title": "Frighteningly Ambitious Startup Ideas - The Redux",
+      "url": "https://medium.com/on-startups/55d6e81717a2",
+      "author": "zdgman",
+      "points": 29,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 15,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1364753997,
+      "relevancy_score": 4528,
+      "_tags": [
+        "story",
+        "author_zdgman",
+        "story_5469567"
+      ],
+      "objectID": "5469567",
+      "_highlightResult": {
+        "title": {
+          "value": "Frighteningly Ambitious Startup Ideas - The \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/on-startups/55d6e81717a2",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "zdgman",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2009-03-23T17:15:01.000Z",
+      "title": "Failure is overrated, a redux",
+      "url": "http://www.37signals.com/svn/posts/1643-failure-is-overrated-a-redux",
+      "author": "johns",
+      "points": 29,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 13,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1237828501,
+      "relevancy_score": 1719,
+      "_tags": [
+        "story",
+        "author_johns",
+        "story_528842"
+      ],
+      "objectID": "528842",
+      "_highlightResult": {
+        "title": {
+          "value": "Failure is overrated, a \u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.37signals.com/svn/posts/1643-failure-is-overrated-a-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "johns",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-08-28T15:52:11.000Z",
+      "title": "Show HN: Nion, declarative API data management library built on Redux",
+      "url": "https://github.com/Patreon/nion",
+      "author": "meagher",
+      "points": 28,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 4,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1535471531,
+      "relevancy_score": 8332,
+      "_tags": [
+        "story",
+        "author_meagher",
+        "story_17859749",
+        "show_hn"
+      ],
+      "objectID": "17859749",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Nion, declarative API data management library built on \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/Patreon/nion",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "meagher",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-06-07T15:44:20.000Z",
+      "title": "Cabin: Thoroughly Learn React and Redux with This Example App",
+      "url": "http://cabin.getstream.io/",
+      "author": "tortilla",
+      "points": 28,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1465314260,
+      "relevancy_score": 6773,
+      "_tags": [
+        "story",
+        "author_tortilla",
+        "story_11855243"
+      ],
+      "objectID": "11855243",
+      "_highlightResult": {
+        "title": {
+          "value": "Cabin: Thoroughly Learn React and \u003cem\u003eRedux\u003c/em\u003e with This Example App",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://cabin.getstream.io/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tortilla",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-09-27T22:44:12.000Z",
+      "title": "Typed Redux Reducers in TypeScript 2.0",
+      "url": "https://spin.atomicobject.com/2016/09/27/typed-redux-reducers-typescript-2-0/#.V-r2OauZKgM.hackernews",
+      "author": "philk10",
+      "points": 27,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 4,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1475016252,
+      "relevancy_score": 6988,
+      "_tags": [
+        "story",
+        "author_philk10",
+        "story_12593865"
+      ],
+      "objectID": "12593865",
+      "_highlightResult": {
+        "title": {
+          "value": "Typed \u003cem\u003eRedux\u003c/em\u003e Reducers in TypeScript 2.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://spin.atomicobject.com/2016/09/27/typed-\u003cem\u003eredux\u003c/em\u003e-reducers-typescript-2-0/#.V-r2OauZKgM.hackernews",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "philk10",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-10T03:59:13.000Z",
+      "title": "Show HN: DataTable for React-Redux",
+      "url": "https://blog.kenforthewin.com/bring-datatables-to-react-redux/",
+      "author": "kenforthewin",
+      "points": 25,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1520654353,
+      "relevancy_score": 7996,
+      "_tags": [
+        "story",
+        "author_kenforthewin",
+        "story_16557019",
+        "show_hn"
+      ],
+      "objectID": "16557019",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: DataTable for React-\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://blog.kenforthewin.com/bring-datatables-to-react-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "kenforthewin",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2008-08-18T18:13:16.000Z",
+      "title": "A Conversation about Redux Getting Their Users Laid",
+      "url": "http://foohack.com/2008/08/redux-getting-users-laid/",
+      "author": "IsaacSchlueter",
+      "points": 24,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 6,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1219083196,
+      "relevancy_score": 1303,
+      "_tags": [
+        "story",
+        "author_IsaacSchlueter",
+        "story_279502"
+      ],
+      "objectID": "279502",
+      "_highlightResult": {
+        "title": {
+          "value": "A Conversation about \u003cem\u003eRedux\u003c/em\u003e Getting Their Users Laid",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://foohack.com/2008/08/\u003cem\u003eredux\u003c/em\u003e-getting-users-laid/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "IsaacSchlueter",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-08-14T16:35:52.000Z",
+      "title": "Redux 1.0",
+      "url": "https://github.com/rackt/redux",
+      "author": "clessg",
+      "points": 24,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 5,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1439570152,
+      "relevancy_score": 6195,
+      "_tags": [
+        "story",
+        "author_clessg",
+        "story_10061098"
+      ],
+      "objectID": "10061098",
+      "_highlightResult": {
+        "title": {
+          "value": "\u003cem\u003eRedux\u003c/em\u003e 1.0",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/rackt/\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "clessg",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-08-01T17:16:56.000Z",
+      "title": "Ask HN: What are the best open source apps written with React/Redux?",
+      "url": null,
+      "author": "yadongwen",
+      "points": 23,
+      "story_text": "I have gone through sound-redux (https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;andrewngu\u0026#x2F;sound-redux) and the list in https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;reactjs\u0026#x2F;comments\u0026#x2F;496db2\u0026#x2F;large_open_source_reactredux_projects\u0026#x2F; but none has a fairly complex model layer. Are there new projects using redux-saga or backbone-redux?",
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1470071816,
+      "relevancy_score": 6880,
+      "_tags": [
+        "story",
+        "author_yadongwen",
+        "story_12204156",
+        "ask_hn"
+      ],
+      "objectID": "12204156",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: What are the best open source apps written with React/\u003cem\u003eRedux\u003c/em\u003e?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "yadongwen",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "I have gone through sound-\u003cem\u003eredux\u003c/em\u003e (https://github.com/andrewngu/sound-\u003cem\u003eredux\u003c/em\u003e) and the list in https://www.reddit.com/r/reactjs/comments/496db2/large_open_source_reactredux_projects/ but none has a fairly complex model layer. Are there new projects using \u003cem\u003eredux\u003c/em\u003e-saga or backbone-\u003cem\u003eredux\u003c/em\u003e?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-12-01T12:59:24.000Z",
+      "title": "Building a Native Soundcloud Android App with React Native and Redux",
+      "url": "https://wiredcraft.com/blog/native-soundcloud-android-app/?utm_source=hn",
+      "author": "hunvreus",
+      "points": 23,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1448974764,
+      "relevancy_score": 6410,
+      "_tags": [
+        "story",
+        "author_hunvreus",
+        "story_10654947"
+      ],
+      "objectID": "10654947",
+      "_highlightResult": {
+        "title": {
+          "value": "Building a Native Soundcloud Android App with React Native and \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://wiredcraft.com/blog/native-soundcloud-android-app/?utm_source=hn",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "hunvreus",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-10-21T20:59:33.000Z",
+      "title": "A Cartoon Intro to Redux",
+      "url": "https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6",
+      "author": "elithrar",
+      "points": 23,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1445461173,
+      "relevancy_score": 6329,
+      "_tags": [
+        "story",
+        "author_elithrar",
+        "story_10428648"
+      ],
+      "objectID": "10428648",
+      "_highlightResult": {
+        "title": {
+          "value": "A Cartoon Intro to \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://code-cartoons.com/a-cartoon-intro-to-\u003cem\u003eredux\u003c/em\u003e-3afb775501a6",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "elithrar",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-10-05T13:49:45.000Z",
+      "title": "React Tutorial – Converting Reflux to Redux",
+      "url": "http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux/",
+      "author": "mattjstar",
+      "points": 22,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1444052985,
+      "relevancy_score": 6302,
+      "_tags": [
+        "story",
+        "author_mattjstar",
+        "story_10331763"
+      ],
+      "objectID": "10331763",
+      "_highlightResult": {
+        "title": {
+          "value": "React Tutorial – Converting Reflux to \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://engineering.wework.com/process/2015/10/01/react-reflux-to-\u003cem\u003eredux\u003c/em\u003e/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "mattjstar",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-05T01:36:01.000Z",
+      "title": "Async friendly transformation middleware for Redux",
+      "url": "https://github.com/contrarian/redux-transform",
+      "author": "papapopper",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 15,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1499218561,
+      "relevancy_score": 7525,
+      "_tags": [
+        "story",
+        "author_papapopper",
+        "story_14699460"
+      ],
+      "objectID": "14699460",
+      "_highlightResult": {
+        "title": {
+          "value": "Async friendly transformation middleware for \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/contrarian/\u003cem\u003eredux\u003c/em\u003e-transform",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "papapopper",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-09-20T00:14:40.000Z",
+      "title": "Show HN: Redux-undo-boilerplate – with hot reloading and error handling",
+      "url": "https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate",
+      "author": "omnidan",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 6,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1442708080,
+      "relevancy_score": 6262,
+      "_tags": [
+        "story",
+        "author_omnidan",
+        "story_10246040",
+        "show_hn"
+      ],
+      "objectID": "10246040",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: \u003cem\u003eRedux\u003c/em\u003e-undo-boilerplate – with hot reloading and error handling",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/omnidan/\u003cem\u003eredux\u003c/em\u003e-undo-boilerplate#\u003cem\u003eredux\u003c/em\u003e-undo-boilerplate",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "omnidan",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-02-22T13:51:28.000Z",
+      "title": "Features are faults redux",
+      "url": "http://www.tedunangst.com/flak/post/features-are-faults-redux",
+      "author": "gbrown_",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 3,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1487771488,
+      "relevancy_score": 7270,
+      "_tags": [
+        "story",
+        "author_gbrown_",
+        "story_13705442"
+      ],
+      "objectID": "13705442",
+      "_highlightResult": {
+        "title": {
+          "value": "Features are faults \u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.tedunangst.com/flak/post/features-are-faults-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "gbrown_",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2015-09-06T13:50:09.000Z",
+      "title": "Show HN: Immutable and type-checked state and actions for Redux",
+      "url": "https://github.com/gcanti/redux-tcomb",
+      "author": "gcanti",
+      "points": 20,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1441547409,
+      "relevancy_score": 6235,
+      "_tags": [
+        "story",
+        "author_gcanti",
+        "story_10177631",
+        "show_hn"
+      ],
+      "objectID": "10177631",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Immutable and type-checked state and actions for \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/gcanti/\u003cem\u003eredux\u003c/em\u003e-tcomb",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "gcanti",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-01-10T15:20:52.000Z",
+      "title": "The Virtues of Monitoring, Redux",
+      "url": "http://www.paperplanes.de/2013/1/10/virtues-of-monitoring-redux.html",
+      "author": "timf",
+      "points": 20,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1357831252,
+      "relevancy_score": 4380,
+      "_tags": [
+        "story",
+        "author_timf",
+        "story_5037286"
+      ],
+      "objectID": "5037286",
+      "_highlightResult": {
+        "title": {
+          "value": "The Virtues of Monitoring, \u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "http://www.paperplanes.de/2013/1/10/virtues-of-monitoring-\u003cem\u003eredux\u003c/em\u003e.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "timf",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-01-05T13:12:18.000Z",
+      "title": "Simple Redux–a bare-bones redux implementation for teaching purposes",
+      "url": "https://github.com/eddyerburgh/simple-redux",
+      "author": "eddyerburgh",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1546693938,
+      "relevancy_score": 8574,
+      "_tags": [
+        "story",
+        "author_eddyerburgh",
+        "story_18831450"
+      ],
+      "objectID": "18831450",
+      "_highlightResult": {
+        "title": {
+          "value": "Simple \u003cem\u003eRedux\u003c/em\u003e–a bare-bones \u003cem\u003eredux\u003c/em\u003e implementation for teaching purposes",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/eddyerburgh/simple-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "eddyerburgh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-07-25T15:51:41.000Z",
+      "title": "Show HN: Online family tree maker built with React/Redux",
+      "url": "https://app.familytreeprints.com/",
+      "author": "keslert",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1500997901,
+      "relevancy_score": 7566,
+      "_tags": [
+        "story",
+        "author_keslert",
+        "story_14848677",
+        "show_hn"
+      ],
+      "objectID": "14848677",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Online family tree maker built with React/\u003cem\u003eRedux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://app.familytreeprints.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "keslert",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-11-16T11:00:26.000Z",
+      "title": "Katana: React and Redux in Swift",
+      "url": "https://github.com/BendingSpoons/katana-swift",
+      "author": "lucaquerella",
+      "points": 20,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1479294026,
+      "relevancy_score": 7082,
+      "_tags": [
+        "story",
+        "author_lucaquerella",
+        "story_12965999"
+      ],
+      "objectID": "12965999",
+      "_highlightResult": {
+        "title": {
+          "value": "Katana: React and \u003cem\u003eRedux\u003c/em\u003e in Swift",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://github.com/BendingSpoons/katana-swift",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "lucaquerella",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-04-07T19:17:59.000Z",
+      "title": "Ask HN: Reasons not to use Redux?",
+      "url": null,
+      "author": "horsecaptin",
+      "points": 19,
+      "story_text": "Hey everyone,\nI understand Redux and why to use it to store application state. I was wondering, are there reasons to not use Redux?\u003cp\u003eFor example, since Redux is a monolothic store of application state, could the state tree get too big?",
+      "comment_text": null,
+      "num_comments": 7,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1460056679,
+      "relevancy_score": 6652,
+      "_tags": [
+        "story",
+        "author_horsecaptin",
+        "story_11449833",
+        "ask_hn"
+      ],
+      "objectID": "11449833",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Reasons not to use \u003cem\u003eRedux\u003c/em\u003e?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "horsecaptin",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "Hey everyone,\nI understand \u003cem\u003eRedux\u003c/em\u003e and why to use it to store application state. I was wondering, are there reasons to not use \u003cem\u003eRedux\u003c/em\u003e?\u003cp\u003eFor example, since \u003cem\u003eRedux\u003c/em\u003e is a monolothic store of application state, could the state tree get too big?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-08-06T21:45:04.000Z",
+      "title": "What the Flux? Let’s Redux. (or why Redux is awesome)",
+      "url": "https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux",
+      "author": "HenrikJoreteg",
+      "points": 19,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1438897504,
+      "relevancy_score": 6181,
+      "_tags": [
+        "story",
+        "author_HenrikJoreteg",
+        "story_10019678"
+      ],
+      "objectID": "10019678",
+      "_highlightResult": {
+        "title": {
+          "value": "What the Flux? Let’s \u003cem\u003eRedux\u003c/em\u003e. (or why \u003cem\u003eRedux\u003c/em\u003e is awesome)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://blog.andyet.com/2015/08/06/what-the-flux-lets-\u003cem\u003eredux\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "HenrikJoreteg",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-01-29T02:15:51.000Z",
+      "title": "Deep Dive: Redux Under the Hood",
+      "url": "https://www.matthewgerstman.com/how-redux-works/",
+      "author": "mattgerstman",
+      "points": 19,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1548728151,
+      "relevancy_score": 8628,
+      "_tags": [
+        "story",
+        "author_mattgerstman",
+        "story_19023103"
+      ],
+      "objectID": "19023103",
+      "_highlightResult": {
+        "title": {
+          "value": "Deep Dive: \u003cem\u003eRedux\u003c/em\u003e Under the Hood",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "url": {
+          "value": "https://www.matthewgerstman.com/how-\u003cem\u003eredux\u003c/em\u003e-works/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "redux"
+          ]
+        },
+        "author": {
+          "value": "mattgerstman",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 11688,
+  "page": 0,
+  "nbPages": 10,
+  "hitsPerPage": 100,
+  "processingTimeMS": 3,
+  "exhaustiveNbHits": false,
+  "query": "redux",
+  "params": "advancedSyntax=true\u0026analytics=false\u0026hitsPerPage=100\u0026page=0\u0026query=redux"
+}

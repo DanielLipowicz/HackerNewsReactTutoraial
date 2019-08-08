@@ -1,0 +1,34 @@
+{
+  "id" : "f49b0dfa-2925-3184-86cd-ab8969fb2637",
+  "request" : {
+    "url" : "/search?query=redux&page=0&hitsPerPage=100",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-search-TDe8O.json",
+    "headers" : {
+      "Date" : "Thu, 08 Aug 2019 12:59:25 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "Set-Cookie" : "__cfduid=dba30df937daa8042c2309a492c4516b61565269165; expires=Fri, 07-Aug-20 12:59:25 GMT; path=/; domain=.algolia.com; HttpOnly; Secure",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-Content-Type-Options" : "nosniff",
+      "ETag" : "W/\"b9cb8900196fd603ae8cfe345fec5c7c\"",
+      "Cache-Control" : "max-age=0, private, must-revalidate",
+      "X-Request-Id" : "f8a40b39-5e44-4e52-9219-99575ed271e3",
+      "X-Runtime" : "0.057120",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "GET, PUT, DELETE, POST, OPTIONS",
+      "Access-Control-Allow-Headers" : "x-algolia-application-id, connection, origin, x-algolia-api-key, content-type, content-length, x-algolia-signature, x-algolia-usertoken, x-algolia-tagfilters, DNT, X-Mx-ReqToken, Keep-Alive, User-Agent, X-Requested-With, If-Modified-Since, Cache-Control, Authorization, Accept",
+      "Access-Control-Allow-Credentials" : "false",
+      "Strict-Transport-Security" : "max-age=31536000; includeSubDomains; preload",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Server" : "cloudflare",
+      "CF-RAY" : "5031aadb0ebdcc93-WAW"
+    }
+  },
+  "uuid" : "f49b0dfa-2925-3184-86cd-ab8969fb2637"
+}

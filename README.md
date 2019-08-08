@@ -1,3 +1,9 @@
+#Wiremock used in project
+put wiremock standalone jar into `src/virtual_data`
+to record some endpoint traffic execute `java -jar wiremock-standalone-2.24.1.jar --verbose --record-mappings --proxy-all="mockEndpoint" `
+
+#Create React App Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

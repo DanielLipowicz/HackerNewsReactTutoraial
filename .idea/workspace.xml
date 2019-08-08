@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="Perform code re-organisation - for now all components are split to different folders">
-      <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/__snapshots__/App.test.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Buttons/__snapshots__/test.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/__snapshots__/test.js.snap" afterDir="false" />
+    <list default="true" id="fd8d1d40-f174-49dd-81ae-0749ae252eab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/virtual_data/__files/body-favicon.ico-N4pxP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_data/__files/body-search-TDe8O.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_data/mappings/mapping-favicon.ico-N4pxP.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_data/mappings/mapping-search-TDe8O.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Buttons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Buttons/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Buttons/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Table/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/virtual_data/mapping/hacker_news.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/virtual_data/mapping/tmp.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/virtual_data/wiremock-standalone-2.19.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/virtual_data/wiremock-standalone-2.24.1.jar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tmp/build/reports/gradle/MHListener_FailedTestScreenshots" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/virtual_data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,15 +53,16 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/App" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/virtual_data" />
+      <recent name="$PROJECT_DIR$/src/tmp" />
       <recent name="$PROJECT_DIR$/src/tmp/build/reports/gradle/MHListener_FailedTestScreenshots" />
       <recent name="$PROJECT_DIR$/src/tmp/build/reports/gradle" />
-      <recent name="$PROJECT_DIR$/src/tmp" />
       <recent name="$PROJECT_DIR$/tmp" />
-      <recent name="$PROJECT_DIR$/src/constants" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/virtual_data/mapping" />
+      <recent name="$PROJECT_DIR$/src/components/App" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,7 +183,8 @@
       <workItem from="1562265407136" duration="25938000" />
       <workItem from="1563818491211" duration="5000" />
       <workItem from="1563823917207" duration="1000" />
-      <workItem from="1563824624117" duration="16371000" />
+      <workItem from="1563824624117" duration="26179000" />
+      <workItem from="1565266560866" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="Unit test chapter completed">
       <created>1560851058942</created>
@@ -213,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563741719221</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Perform code re-organisation - for now all components are split to different folders">
+      <created>1564430903577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564430903577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
